@@ -1,9 +1,7 @@
 # LazyNet
 ![image](https://github.com/rahulrao9/LazyNet/blob/main/board.png)
 
-***Link to the dataset***
-
-[dataset](https://drive.google.com/file/d/1LdWdLlfct93WfNNdiraBxJnBUqT3Oxll/view)
+[***Link to the dataset***](https://drive.google.com/file/d/1LdWdLlfct93WfNNdiraBxJnBUqT3Oxll/view)
 
 ***Overview***
 
