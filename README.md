@@ -7,7 +7,7 @@
 
 ***Overview***
 
-Create an AI that uses board evaluations to play the best move in
+AI that uses board evaluations to play the best move in
 a given position
 * Train a Convolutional Neural Network using board evaluations from the established chess engine Stockfish
 * Fit 150000 boards as a 14x8x8 object to a score
