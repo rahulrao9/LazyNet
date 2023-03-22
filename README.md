@@ -15,7 +15,7 @@ a given position
 * Our engine, in addition to using deep learning, uses classic AI algorithms like the minimax which enables accurate decision making at each step.
 * Speed is an important factor for any intelligent system. The alpha-beta pruning algorithm has been implemented to increase speed of decision making. Alpha-beta pruning is a way to limit computation time. White will never choose a move that gives black a better evaluation than a previously calculated move, so the rest of the right side branches are snipped after the ≤ −4 is calculated. White will always choose left branch. On the left side, we know to cut the rest of the ≥ 5 node as black would never choose a move that gives white a larger evaluation than the 3 previously calculated. Black will always choose the left branch.
 
-***StockFish**
+***StockFish***
 * Stockfish is an open-source chess engine released in 2008
 * Uses raw material (piece) advantages in early, mid, and lategame to evaluate position
 * Optimal piece placement for knights, bishops, and kings, pawn formation matters.
