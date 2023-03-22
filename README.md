@@ -2,7 +2,7 @@
 ![image](https://github.com/rahulrao9/LazyNet/blob/main/board.png)
 
 [***Link to the dataset***](https://drive.google.com/file/d/1LdWdLlfct93WfNNdiraBxJnBUqT3Oxll/view)
-
+[***Link to Stockfish 15 Download***](https://stockfishchess.org/files/stockfish_15.1_win_x64_avx2.zip)
 ***Overview***
 
 Create an AI that uses board evaluations to play the best move in
