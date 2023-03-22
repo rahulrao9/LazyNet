@@ -3,7 +3,7 @@
 
 [***Link to the dataset***](https://drive.google.com/file/d/1LdWdLlfct93WfNNdiraBxJnBUqT3Oxll/view)
 
-[***Stockfish 15 Download***](https://stockfishchess.org/files/stockfish_15.1_win_x64_avx2.zip)
+[***Stockfish 15 Download(windows)***](https://stockfishchess.org/files/stockfish_15.1_win_x64_avx2.zip)
 
 ***Overview***
 
